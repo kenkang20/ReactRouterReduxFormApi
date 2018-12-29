@@ -1,0 +1,6 @@
+{
+  "name": "React Router & Redux Form Api",
+  "description": "A simple API built in Node and Express hosted on Heroku",
+  "repository": "https://github.com/kenkang20/ReactRouterReduxFormApi.git",
+  "keywords": ["node", "express", "static"]
+}
